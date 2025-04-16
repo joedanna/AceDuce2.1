@@ -8,7 +8,7 @@ int main() {
     int numPlayers; // Default number of players
 
     cout << "Welcome to Multiplayer Inbetween!";
-    cout << "\nEnter Many PLayers Are Playing: ";
+    cout << "\nEnter Number of players who are playing: ";
     cin >> numPlayers;
     cout << "\nThe Rules: \n "; // The RUles of the Game
     cout << "1. You get two cards." << endl;
